@@ -23,6 +23,7 @@ class MaClasseDeTest {
 	@BeforeAll
 	static void avantLePremierTest() {
 		//S'éxcute une fois avant le premier test
+		//
 	}
 	@AfterAll
 	static void apresLeDernierTest() {
